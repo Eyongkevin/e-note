@@ -1,4 +1,5 @@
-![Image of e~note](https://github.com/Eyongkevin/e-note/docs/e~note_main_image.png)
+![Image of e~note](https://github.com/Eyongkevin/e-note/blob/master/docs/eNote_main_image.PNG)
+
 **e~note** is a simple lightweight text editor program build in *python*. It enables computer users to create documents. *e~note* allows you to **create**, **open**, and **read** [plaintext files](https://www.computerhope.com/jargon/p/plaintex.htm). The image above shows what *enote* look like while running.
 
 ### How to run e~note
